@@ -2,30 +2,24 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- 👯 &nbsp; I’m looking to collaborate on open source and Artificial Intelligence
+- 🤔 &nbsp; Solving Real world problems by exploring new technologies and developing software solutions and quick hacks
+- 👯 &nbsp; I’m looking to collaborate on Artificial Intelligence, Data Science and Software Development
 - 💼 &nbsp; Working as a Research Engineer at ESDS Software Solutions Ltd
-- 🎓 &nbsp; Studied Computer Science and Enginnering at K. K. Wagh Institute of Engineering Education & Research.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence
+- 🎓 &nbsp; Studied Computer Science at K. K. Wagh Institute of Engineering Education & Research
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning, Big Data and DevOps
 - ✍️ &nbsp; Playing Chess and Reading Books as hobbies/side hustles
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  Python, Java, C++, C, Bash
-
-- 🌐 &nbsp;
-  HTML5, CSS, JavaScript, Bootstrap, PHP
-  
-- 🛢 &nbsp;
-  MySQL, MongoDB, CouchDB, Redis
-  
-- ⚙️ &nbsp;
-  Git, GitHub, GitLab, Markdown
-  
-- 🔧 &nbsp;
-  Visual Studio Code, JupyterHub, Sublime, Notepad++
-  
+- 💻 &nbsp; Python, Java, C++, C, Bash
+- 💠 &nbsp; Flask, Django, Django REST Framework
+- 🤖 &nbsp; Deep Learning/Computer Vision – Object Detection, Face Recognition, Tensorflow, Keras, PyTorch
+- ☁️ &nbsp; Cloud – IaaS, PaaS, SaaS, Cloud Orchestration, Public Cloud, Private Cloud, Hybrid Cloud
+- 🌐 &nbsp; HTML5, CSS, JavaScript, Bootstrap, PHP
+- 🛢 &nbsp;  MySQL, MongoDB, CouchDB, Redis
+- 🚢 &nbsp; Docker, Kubernetes, Packaging, Automation, SaltStack
+- ⚙️ &nbsp; Git, GitHub, GitLab, Markdown
+- 🔧 &nbsp; Visual Studio Code, JupyterHub, Sublime, Notepad++  
 <br/>
 
 <a href="https://github.com/NISHANTSHRIVASTAV">
