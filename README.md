@@ -12,35 +12,19 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  Python
-  Java
-  C++
-  C
-  Bash
+  Python, Java, C++, C, Bash
 
 - 🌐 &nbsp;
-  HTML5
-  CSS
-  JavaScript
-  Bootstrap
-  PHP
+  HTML5, CSS, JavaScript, Bootstrap, PHP
   
 - 🛢 &nbsp;
-  MySQL
-  MongoDB
-  CouchDB
-  Redis
+  MySQL, MongoDB, CouchDB, Redis
   
 - ⚙️ &nbsp;
-  Git
-  GitHub
-  Markdown
+  Git, GitHub, GitLab, Markdown
   
 - 🔧 &nbsp;
-  Visual Studio Code
-  JupyterHub
-  Sublime
-  Notepad++
+  Visual Studio Code, JupyterHub, Sublime, Notepad++
   
 <br/>
 
