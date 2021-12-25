@@ -14,10 +14,10 @@
 - 💻 &nbsp; Python, Java, C++, C, Bash
 - 💠 &nbsp; Flask, Django, Django REST Framework
 - 🤖 &nbsp; Deep Learning, Computer Vision, Object Detection, Face Recognition, Tensorflow, Keras, PyTorch
-- ☁️ &nbsp; IaaS, PaaS, SaaS, Cloud Orchestration, Public Cloud, Private Cloud, Hybrid Cloud
 - 🌐 &nbsp; HTML5, CSS, JavaScript, Bootstrap, PHP
-- 🛢 &nbsp;  MySQL, MongoDB, CouchDB, Redis
+- 🛢 &nbsp; MySQL, MongoDB, CouchDB, Redis
 - 🚢 &nbsp; Docker, Kubernetes, Packaging, Automation, SaltStack
+- ☁️ &nbsp; IaaS, PaaS, SaaS, Cloud Orchestration, Public Cloud, Private Cloud, Hybrid Cloud
 - ⚙️ &nbsp; Git, GitHub, GitLab, Markdown
 - 🔧 &nbsp; Visual Studio Code, JupyterHub, Sublime, Notepad++  
 <br/>
