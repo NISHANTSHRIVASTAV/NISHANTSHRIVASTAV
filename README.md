@@ -1,16 +1,59 @@
-### Hi there 👋
+<h2> Hey there! I'm Nishant  👋</h2>
 
-<!--
-**NISHANTSHRIVASTAV/NISHANTSHRIVASTAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 👯 &nbsp; I’m looking to collaborate on open source, software development and Artificial Intelligence
+- 💼 &nbsp; Working as a Research Engineer at ESDS Software Solutions Ltd.
+- 🎓 &nbsp; Studied Computer Science and Enginnering at K.K. Wagh Institute of Engineering Education & Research.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Playing chess and reading books as hobbies/side hustles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  !Python
+  !Java
+  !C++
+  !C
+  !Bash
+
+- 🌐 &nbsp;
+  !HTML5
+  !CSS
+  !JavaScript
+  !Bootstrap
+  ! PHP
+  
+- 🛢 &nbsp;
+  !MySQL
+  !MongoDB
+  !CouchDB
+  !Redis
+  
+- ⚙️ &nbsp;
+  !Git
+  !GitHub
+  !Markdown
+  
+- 🔧 &nbsp;
+  !Visual Studio Code
+  ! JupyterHub
+  !Sublime
+  !Notepad++
+  
+<br/>
+
+<a href="https://github.com/NISHANTSHRIVASTAV">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NISHANTSHRIVASTAV&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NISHANTSHRIVASTAV&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="http://www.linkedin.com/in/nishant-shrivastav-07"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishant%20Santosh%20Shrivastav-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nishantshrivastav23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nishantshrivastav23@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
