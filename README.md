@@ -2,45 +2,45 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 👯 &nbsp; I’m looking to collaborate on open source, software development and Artificial Intelligence
-- 💼 &nbsp; Working as a Research Engineer at ESDS Software Solutions Ltd.
-- 🎓 &nbsp; Studied Computer Science and Enginnering at K.K. Wagh Institute of Engineering Education & Research.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Playing chess and reading books as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
+- 👯 &nbsp; I’m looking to collaborate on open source and Artificial Intelligence
+- 💼 &nbsp; Working as a Research Engineer at ESDS Software Solutions Ltd
+- 🎓 &nbsp; Studied Computer Science and Enginnering at K. K. Wagh Institute of Engineering Education & Research.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence
+- ✍️ &nbsp; Playing Chess and Reading Books as hobbies/side hustles
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  !Python
-  !Java
-  !C++
-  !C
-  !Bash
+  Python
+  Java
+  C++
+  C
+  Bash
 
 - 🌐 &nbsp;
-  !HTML5
-  !CSS
-  !JavaScript
-  !Bootstrap
-  ! PHP
+  HTML5
+  CSS
+  JavaScript
+  Bootstrap
+  PHP
   
 - 🛢 &nbsp;
-  !MySQL
-  !MongoDB
-  !CouchDB
-  !Redis
+  MySQL
+  MongoDB
+  CouchDB
+  Redis
   
 - ⚙️ &nbsp;
-  !Git
-  !GitHub
-  !Markdown
+  Git
+  GitHub
+  Markdown
   
 - 🔧 &nbsp;
-  !Visual Studio Code
-  ! JupyterHub
-  !Sublime
-  !Notepad++
+  Visual Studio Code
+  JupyterHub
+  Sublime
+  Notepad++
   
 <br/>
 
