@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Solving Real world problems by exploring new technologies and developing software solutions and quick hacks
+- 🧠 &nbsp; Solving Real world problems by exploring new technologies and developing software solutions and quick hacks
 - 👯 &nbsp; I’m looking to collaborate on Artificial Intelligence, Data Science and Software Development
 - 💼 &nbsp; Working as a Research Engineer at ESDS Software Solutions Ltd
 - 🎓 &nbsp; Studied Computer Science at K. K. Wagh Institute of Engineering Education & Research
