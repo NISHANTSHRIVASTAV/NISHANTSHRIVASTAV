@@ -4,7 +4,7 @@
 
 - 🧠 &nbsp; Solving Real world problems by exploring new technologies and developing software solutions and quick hacks
 - 👯 &nbsp; I’m looking to collaborate on Artificial Intelligence, Data Science and Software Development
-- 💼 &nbsp; Working as a Research Engineer at ESDS Software Solutions Ltd
+- 💼 &nbsp; Working as a Machine Learning Engineer at EY
 - 🎓 &nbsp; Studied Computer Science at K. K. Wagh Institute of Engineering Education & Research
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning, Big Data and DevOps
 - ✍️ &nbsp; Playing Chess and Reading Books as hobbies/side hustles
