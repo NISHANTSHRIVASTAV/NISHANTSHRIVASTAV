@@ -5,7 +5,7 @@
 - 🧠 &nbsp; Solving Real world problems by exploring new technologies and developing software solutions and quick hacks
 - 👯 &nbsp; I’m looking to collaborate on Artificial Intelligence, Data Science and Software Development
 - 💼 &nbsp; Working as a Machine Learning Engineer at EY
-- 🎓 &nbsp; Studied Computer Science at K. K. Wagh Institute of Engineering Education & Research
+- 🎓 &nbsp; Studied Computer Science and Engineering at K. K. Wagh Institute of Engineering Education & Research
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning, Big Data and DevOps
 - ✍️ &nbsp; Playing Chess and Reading Books as hobbies/side hustles
 
@@ -19,7 +19,7 @@
 - 🚢 &nbsp; Docker, Kubernetes, Packaging, Automation, SaltStack
 - ☁️ &nbsp; IaaS, PaaS, SaaS, Cloud Orchestration, Public Cloud, Private Cloud, Hybrid Cloud
 - ⚙️ &nbsp; Git, GitHub, GitLab, Markdown
-- 🔧 &nbsp; Visual Studio Code, JupyterHub, Sublime, Notepad++  
+- 🔧 &nbsp; Visual Studio Code, PyCharm, JupyterHub, Sublime, Notepad++  
 <br/>
 
 <a href="https://github.com/NISHANTSHRIVASTAV">
