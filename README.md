@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🧠 &nbsp; Solving Real world problems by exploring new technologies and developing software solutions and quick hacks
-- 👯 &nbsp; I’m looking to collaborate on Artificial Intelligence, Data Science and Software Development
+- 👯 &nbsp; I’m looking to collaborate on AI Agents, Gen AI, LLM, Classical ML, Data Science and Software Development
 - 💼 &nbsp; Working as a GenAI & ML Engineer at EY
 - 🎓 &nbsp; Studied Computer Science and Engineering at K. K. Wagh Institute of Engineering Education & Research
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning, Big Data and DevOps
@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Python, Java, C++, C, Bash
 - 💠 &nbsp; Flask, Django, Django REST Framework
-- 🤖 &nbsp; Agentic AI, LLM, Advanced RAG, LangChain, Deep Learning, Computer Vision, Generative AI, Object Detection, Face Recognition, Tensorflow
+- 🤖 &nbsp; Agentic AI, LLM, Advanced RAG, LangChain, Semantic Kernel, Deep Learning, Computer Vision, Generative AI, Object Detection, Face Recognition, Tensorflow
 - 🌐 &nbsp; HTML5, CSS, JavaScript, Bootstrap, PHP
 - 🛢 &nbsp; MySQL, MongoDB, ChromaDB, CouchDB, Redis
 - 🚢 &nbsp; Docker, Kubernetes, Packaging, Automation, SaltStack
