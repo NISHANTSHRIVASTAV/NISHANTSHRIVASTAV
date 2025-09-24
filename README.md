@@ -12,7 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; Python, Java, C++, C, Bash
-- 💠 &nbsp; Flask, Django, Django REST Framework
+- 💠 &nbsp; FastAPI, Flask, Django, Django REST Framework
 - 🤖 &nbsp; Agentic AI, LLM, Advanced RAG, LangChain, Semantic Kernel, Deep Learning, Computer Vision, Generative AI, Object Detection, Face Recognition, Tensorflow
 - 🌐 &nbsp; HTML5, CSS, JavaScript, Bootstrap, PHP
 - 🛢 &nbsp; MySQL, MongoDB, ChromaDB, CouchDB, Redis
