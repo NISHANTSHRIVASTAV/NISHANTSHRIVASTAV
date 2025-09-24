@@ -4,7 +4,7 @@
 
 - 🧠 &nbsp; Solving Real world problems by exploring new technologies and developing software solutions and quick hacks
 - 👯 &nbsp; I’m looking to collaborate on Artificial Intelligence, Data Science and Software Development
-- 💼 &nbsp; Working as a Machine Learning Engineer at EY
+- 💼 &nbsp; Working as a GenAI & ML Engineer at EY
 - 🎓 &nbsp; Studied Computer Science and Engineering at K. K. Wagh Institute of Engineering Education & Research
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning, Big Data and DevOps
 - ✍️ &nbsp; Playing Chess and Reading Books as hobbies/side hustles
@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Python, Java, C++, C, Bash
 - 💠 &nbsp; Flask, Django, Django REST Framework
-- 🤖 &nbsp; Deep Learning, Computer Vision, Generative AI, Object Detection, Face Recognition, Tensorflow, Keras, PyTorch, LangChain
+- 🤖 &nbsp; Agentic AI, LLM, Advanced RAG, LangChain, Deep Learning, Computer Vision, Generative AI, Object Detection, Face Recognition, Tensorflow
 - 🌐 &nbsp; HTML5, CSS, JavaScript, Bootstrap, PHP
 - 🛢 &nbsp; MySQL, MongoDB, ChromaDB, CouchDB, Redis
 - 🚢 &nbsp; Docker, Kubernetes, Packaging, Automation, SaltStack
